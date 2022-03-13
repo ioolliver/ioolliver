@@ -16,6 +16,7 @@
 <h2>:student: I'm learning:</h2>
 <div display="inline_block">
   <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="50px" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 </div>
 
 <h2>:speaking_head: I'm interested in:</h2>
