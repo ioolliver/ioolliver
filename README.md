@@ -25,6 +25,7 @@
   <img width="50px" alt="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
   <img width="50px" alt="JestJS" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg">
 </div>
 
 <br><br>
