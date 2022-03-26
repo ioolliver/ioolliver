@@ -8,9 +8,8 @@
   <img width="50px" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img width="50px" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img width="50px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img width="50px" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img width="50px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+  <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 </div>
 
 <h2>:student: I'm learning:</h2>
@@ -29,6 +28,7 @@
   <img width="50px" alt="AdonisJS" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
   <img width="50px" alt="Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img width="50px" alt="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
+  <img width="50px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 </div>
 
 <br><br>
