@@ -27,6 +27,8 @@
   <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg">
   <img width="50px" alt="AdonisJS" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
+  <img width="50px" alt="Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img width="50px" alt="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
 </div>
 
 <br><br>
