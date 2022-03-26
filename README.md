@@ -15,15 +15,15 @@
 
 <h2>:student: I'm learning:</h2>
 <div display="inline_block">
-  <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="50px" alt="JestJS" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img width="50px" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 </div>
 
 <h2>:speaking_head: I'm interested in:</h2>
 <div display="inline_block">
+  <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="50px" alt="NextJS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img width="50px" alt="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  <img width="50px" alt="JestJS" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg">
   <img width="50px" alt="AdonisJS" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
