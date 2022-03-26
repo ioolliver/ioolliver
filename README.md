@@ -5,8 +5,8 @@
 
 <h2>:hammer: I know:</h2>
 <div display="inline_block">
-  <img width="50px" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img width="50px" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img width="50px" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img width="50px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img width="50px" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
