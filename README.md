@@ -23,12 +23,7 @@
 <div display="inline_block">
   <img width="50px" alt="NextJS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img width="50px" alt="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img width="50px" alt="C Plus Plus" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg">
-  <img width="50px" alt="AdonisJS" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
   <img width="50px" alt="Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img width="50px" alt="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
-  <img width="50px" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img width="50px" alt="JestJS" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
 </div>
 
