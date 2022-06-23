@@ -20,17 +20,17 @@
 
 <h2>:speaking_head: I'm interested in:</h2>
 <div display="inline_block">
+  <img width="50px" alt="Phoenix" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
   <img width="50px" alt="NextJS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img width="50px" alt="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
   <img width="50px" alt="Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img width="50px" alt="Phoenix" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
 </div>
 
 <br><br>
 
 <div>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ionascimento&count_private=true&show_icons=true&theme=dark">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionascimento&count_private=true&show_icons=true&theme=dark&hide=html,css,javascript">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=dark">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioolliver&count_private=true&show_icons=true&theme=dark&hide=html,css,javascript">
 </div>
 
 <br><br><br><br><br><br><br><br><br>
