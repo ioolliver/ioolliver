@@ -10,11 +10,11 @@
   <img width="50px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="50px" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 <h2>:student: I'm learning:</h2>
 <div display="inline_block">
-  <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="50px" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
 </div>
 
