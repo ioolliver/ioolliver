@@ -11,19 +11,17 @@
   <img width="50px" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="50px" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
 </div>
 
 <h2>:student: I'm learning:</h2>
 <div display="inline_block">
-  <img width="50px" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img width="50px" alt="Phoenix" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
 </div>
 
 <h2>:speaking_head: I'm interested in:</h2>
 <div display="inline_block">
-  <img width="50px" alt="Phoenix" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
-  <img width="50px" alt="NextJS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img width="50px" alt="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  <img width="50px" alt="Golang" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img width="50px" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
 </div>
 
 <br><br>
