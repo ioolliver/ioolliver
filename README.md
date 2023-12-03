@@ -2,8 +2,7 @@
 
 <p>I'm a 16 years old web developer from Brazil. I started programming when I was 10 years old and since then doing this is like playing games for me. I love programming and I'd rather developing a new project than playing some game.</p>
 
-
-<h2>:hammer: I know:</h2>
+<h2>🔨 I know:</h2>
 <div display="inline_block">
   <img width="50px" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img width="50px" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
@@ -15,12 +14,12 @@
   <img width="50px" alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 </div>
 
-<h2>:student: I'm learning:</h2>
+<h2>🧑‍🎓 I'm learning:</h2>
 <div display="inline_block">
   <img width="50px" alt="Phoenix" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
 </div>
 
-<h2>:speaking_head: I'm interested in:</h2>
+<h2>🗣️ I'm interested in:</h2>
 <div display="inline_block">
   <img width="50px" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
 </div>
