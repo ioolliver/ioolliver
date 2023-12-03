@@ -12,6 +12,7 @@
   <img width="50px" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img width="50px" alt="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="50px" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img width="50px" alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
 </div>
 
 <h2>:student: I'm learning:</h2>
