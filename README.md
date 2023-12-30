@@ -1,6 +1,6 @@
 <h1 align="center"><img alt="Wave" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px"> Hello, I'm Isaque</h1>
 
-<p>I'm a 16 years old web developer from Brazil. I started programming when I was 10 years old and since then doing this is like playing games for me. I love programming and I'd rather developing a new project than playing some game.</p>
+<p>I'm a 16 years old web developer from Brazil. I started programming when I was 10 years old, scripting GTA San Andreas's mods.</p>
 
 <h2>🔨 I know:</h2>
 <div display="inline_block">
