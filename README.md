@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Isaque</h1>
 
-<p>I'm a 16 years old web developer from Brazil. I started programming when I was 10 years old, scripting mods for GTA San Andreas. I have a passion for programming and I will be a reference on this area.</p>
+<p>I'm a 16 years old web developer from Brazil. I started programming when I was 10 years old scripting mods for GTA San Andreas. I have a passion for programming and I will be a reference on this area.</p>
 
 <h2>🔨 I know:</h2>
 <div display="inline_block">
