@@ -2,7 +2,7 @@
 
 <p>I'm a 17 years old web developer from Brazil. I started programming when I was 10 years old. I have a passion for programming and I will be a reference on this area.</p>
 
-<h2>🔨 I work with:</h2>
+<h2>🔨 I can work with:</h2>
 <div display="inline_block">
   <img width="50px" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img width="50px" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
