@@ -18,6 +18,7 @@
 
 <h2>🧑‍🎓 I'm learning:</h2>
 <div display="inline_block">
+  <img width="50px" alt="Elixir" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
 </div>
 
 <h2>🗣️ I'm interested in:</h2>
