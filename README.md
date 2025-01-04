@@ -14,7 +14,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My stats:</h2>
 
-<p>In 2025, I plain to contribute to a public repository everyday. Check out:</p>
+<p>In 2025, I plan to contribute to a public repository everyday. Check out:</p>
 
 <div align="center" display="inline_block">
   <img width="68%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=github_dark">
