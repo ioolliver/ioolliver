@@ -14,7 +14,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My stats:</h2>
 
-<p>In 2025, I plan to contribute to a public repository everyday. Check out:</p>
+<p>In 2025, I plan to contribute to a public repository everyday. Check out my progress:</p>
 
 <div align="center" display="inline_block">
   <img width="68%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=github_dark">
@@ -23,7 +23,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ioolliver&theme=github_dark&card_width=1000&border=ffffff&ring=1f6feb&fire=eb1f6f&stroke=58a7fe&dates=58a7fe)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-bice-psi.vercel.app/?user=ioolliver&theme=github_dark&card_width=1000&border=ffffff&ring=1f6feb&fire=eb1f6f&stroke=58a7fe&dates=58a7fe)](https://git.io/streak-stats)
 
 </div>
 
