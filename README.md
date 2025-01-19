@@ -23,7 +23,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-bice-psi.vercel.app/?user=ioolliver&theme=github_dark&card_width=1000&border=ffffff&ring=1f6feb&fire=eb1f6f&stroke=58a7fe&dates=58a7fe)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-bice-psi.vercel.app/?user=ioolliver&theme=github_dark&card_width=1000&border=ffffff&ring=1f6feb&fire=eb1f6f&stroke=58a7fe&dates=58a7fe&exclude_days=Sat)](https://git.io/streak-stats)
 
 </div>
 
