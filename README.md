@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hello, World!</h1>
 
-<p>I'm a 17 years old web developer from Brazil. I started programming when I was 11 years old. I have a genuine passion for programming and math.</p>
+<p>I'm a 17 years old web developer from Brazil. I started programming when I was 11 years old. I have a genuine passion for programming and math. I'm</p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" height="30" /> My skills:</h2>
 
