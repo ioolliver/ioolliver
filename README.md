@@ -4,11 +4,11 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" height="30" /> My skills:</h2>
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,react,nextjs,elixir)](#)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,react,nextjs,elixir,phoenix)](#)
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="30" height="30" /> I'm learning:</h2>
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=phoenix,docker,kubernetes)](#)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=docker,kubernetes)](#)
 
 </div>
 
