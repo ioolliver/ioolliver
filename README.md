@@ -14,8 +14,6 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My stats:</h2>
 
-<p>In 2025, I plan to contribute almost everyday. Check out my progress:</p>
-
 <div align="center" display="inline_block">
   <img width="68%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=github_dark">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioolliver&count_private=true&show_icons=true&theme=github_dark&hide=html,css,javascript,tsql">
