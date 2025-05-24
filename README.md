@@ -8,7 +8,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="30" height="30" /> I'm learning:</h2>
 
-<!-- [![My Skills](...)](#) -->
+[![Learning](https://skills-icons.vercel.app/api/icons?i=docker)](#)
 
 </div>
 
