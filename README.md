@@ -1,32 +1,61 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hello, World!</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  Hello, I'm Isaque!
+</h1>
 
-<p>I'm a 18 years old web developer from Brazil. I started programming when I was 11 years old. I have a genuine passion for programming and math.I am currently enrolled in a Bachelor's degree in Computer Science at Universidade de São Paulo (USP).</p>
+<p align="center">
+  <em>Web Developer | Math Enthusiast | Lifelong Learner</em>
+</p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" height="30" /> My skills:</h2>
+---
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,react,nextjs,elixir,phoenix)](#)
+## 👋 About Me
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="30" height="30" /> I'm learning:</h2>
+- 🧑‍💻 I'm an 18-year-old web developer from Brazil.
+- 💡 Started coding at 11, passionate about programming and math ever since.
+- 🎓 Pursuing a Bachelor's degree in Computer Science at Universidade de São Paulo (USP).
+- ⚡ Always eager to learn new technologies and solve interesting problems.
 
-[![Learning](https://skills-icons.vercel.app/api/icons?i=docker)](#)
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> My stats:</h2>
+<p align="center">
+  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,react,nextjs,elixir,phoenix" alt="Skills" />
+</p>
 
-<div align="center" display="inline_block">
-  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=github_dark">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioolliver&count_private=true&show_icons=true&theme=github_dark&hide=html,css,javascript,tsql">
-</div>
+---
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-bice-psi.vercel.app/?user=ioolliver&theme=github_dark&card_width=1000&border=ffffff&ring=1f6feb&fire=eb1f6f&stroke=58a7fe&dates=58a7fe)](https://git.io/streak-stats)
+## 🚀 Currently Learning
 
-</div>
+<p align="center">
+  <img src="https://skills-icons.vercel.app/api/icons?i=docker" alt="Learning Docker" />
+</p>
 
-<h2>Social</h2>
-  
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/isaque-nascimento-143889233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=ioolliver&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioolliver&count_private=true&show_icons=true&theme=github_dark&hide=html,css,javascript,tsql" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isaque-nascimento-143889233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
+</p>
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
