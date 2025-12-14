@@ -29,7 +29,8 @@
 ## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=docker" alt="Learning Docker" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=java" alt="Learning Java" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=spring" alt="Learning Spring Boot" />
 </p>
 
 ---
